@@ -11,7 +11,7 @@ public class LoadBakery : MonoBehaviour
         
         if (collision.gameObject.CompareTag("Bakery"))
         {
-            SceneManager.LoadScene("diningHall");
+            SceneManager.LoadScene("Bakery");
         }
     }
     // Start is called before the first frame update
@@ -19,7 +19,6 @@ public class LoadBakery : MonoBehaviour
     {
         
     }
-
 
     // Update is called once per frame
     void Update()

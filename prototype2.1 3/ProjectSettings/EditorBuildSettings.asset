@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Daily Missions.unity
     guid: d51064ccb6c764c89afa179dc7b17e88
+  - enabled: 1
+    path: Assets/Scenes/Bakery.unity
+    guid: ad483c2a38f774e459a76aa1eac75742
+  - enabled: 1
+    path: Assets/Scenes/CCPanel.unity
+    guid: c324d5fd516d44ddfac700517e48e7cb
+  - enabled: 1
+    path: Assets/Scenes/CoffeeOrderLoading.unity
+    guid: 9629afae8e8f04c06bac90bc87ea155b
   m_configObjects: {}

@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: 3143c9e29dc29423f9373b9bfa94076e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7269c8812f3d848718321af774877710
+      internalID: -53730269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530f8bca187aa46fe899ede7e1ccdeb1
+      internalID: 212551544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02f9d630cff4719816e5091128266e
+      internalID: 391583986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eacdb9b316d4fd3afc0a8269d66bad
+      internalID: 563888278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c92861d7af14ab18a2cbb8b2e7e5a3
+      internalID: 2135713623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168fd4747ab4e481fbcc4f087ff3e9c3
+      internalID: 209361326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c60dd9b2a3f48518434e480092f662
+      internalID: -1758235840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897de6516348149d684b9968ff914c27
+      internalID: 137397007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc53a94fc2b584927a1771133fd035cc
+      internalID: -1173542777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 666
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f857ac93a0642e28616efd1a2825f0
+      internalID: -494013992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fe2dc477d344681a460505260765cb
+      internalID: 1813128524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a7d46e330be4a8688ac75f3466fbe0
+      internalID: -973169674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b617d6a3b141feb62156da5ad8339
+      internalID: 1911544489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612af6ddfba6341bf9cd7b2b5706d48f
+      internalID: 2010471679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d0ed81c730d4c26bb357613b35d008
+      internalID: 324487914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec294626bbfe47c788f0ac99fdfbabe
+      internalID: -1723053749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0346a543a1d4957a8d20aa0630f03a
+      internalID: 1154282258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b906d2bd0bf44dfd9b64db5f1b6107b
+      internalID: 2075748291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc31b88889e7a460f9b4053924435961
+      internalID: 37120173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 596
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf1bb99c8884e24aba7b19b3580d26
+      internalID: 506127133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784cffe135b354a7e919b85244d224be
+      internalID: 1483024698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75de567d35d43ccb8c966f0dafe616
+      internalID: 768482100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c16ad7521956444e99ac986a868a50c
+      internalID: -1891803093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b05567b419461eac7107b26496770
+      internalID: -800085054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb54adc6de1848a094b506fab5cdffa
+      internalID: -1701635476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82a2c50999f8413f947b1581c2de947
+      internalID: -217792670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d11e95bb3a044c8eb68bbb285e629e8
+      internalID: 950265821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71136e384aef5453dafb6d06d18eb444
+      internalID: -1328348405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_28
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bebeed17a1349f0933bfc068d09253
+      internalID: 396989599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 526
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a195fc1d2bf0a430da31ccffecac9e0c
+      internalID: 1474969895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac9e0c3293f4084a55533153b46fec
+      internalID: -2022953413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9178dfca3064494b0990b146f74c7a
+      internalID: 305606965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c859dbdc21494388a0130e57bdc8f4f
+      internalID: -1915663255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9fb20168d4447cfb0751e1cb71507f
+      internalID: 1983174249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e4eb67902ec4c91b8adfa0da94c48a
+      internalID: -1844501391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b098339cc4314f2a8855dcec3a5e6f5
+      internalID: 1657924491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab5f0150b9d549b3bd61f5fc31165b2
+      internalID: 815596871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e455342c14e844a5ace1d33d8035da0
+      internalID: 1478993666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c761837682afb491fa54430664fa37bb
+      internalID: -1589842759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 456
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614053b03acba4dab963b66d73d89d85
+      internalID: -1535423571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e29d8e89ffb4b99b8e969208f03c3d
+      internalID: 892826694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a7f80b5b5564d7f8d1fd42027c59f0
+      internalID: -529459000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffffc233f20424d8aabbdab18956e6aa
+      internalID: -620779050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00494849d7344d8a805a07782c6d28f
+      internalID: -106923156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b457dcff11e436d9553bc942c90aaf
+      internalID: 2049217201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356296145c5a54a5fa4043d10b5b84ac
+      internalID: 65007121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18085036a4be54c4d84736ff8a43eef1
+      internalID: 2135458102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3347c69f844d2e958d3a676591068
+      internalID: -477271816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_48
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ea23b7e4624fa3aa48c935f7f639b
+      internalID: 1125192568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_49
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 386
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43405b03a25145dbafedabdafeb7cd5
+      internalID: -1771313745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece81b86ea254744b40118e95131255
+      internalID: -514622444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeda856d13fd410d98436d7422f0545
+      internalID: 398688056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da87ecf5dc5d4cce8ec7783e5cb3772
+      internalID: 1748587603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dcc3c6392ee4cbf89293bd453468e3
+      internalID: -369137150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f4ab27aa2245dcb38987d756dfefc
+      internalID: 1856638453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714458527c5ec4340b4604f48ed2cbd0
+      internalID: 193519796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_56
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413065b7ecda441f82f90473271636a
+      internalID: 60916586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_57
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7101ec7a99f5142079cdc7487ebe4f69
+      internalID: 786470430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71120696a5d8640cf9132b3384ce7818
+      internalID: 1963502578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_59
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 316
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606944081e9d14e6a90ae3a94ae56362
+      internalID: -1388016255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3fe34af5bc49119ec1bf68239cb91
+      internalID: 380323999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f011d407115947b1b3502bb37d8dcee
+      internalID: 525229514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_62
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c5c48829d544f26a37c609703161fb
+      internalID: 1984353229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0996ffbd1f4767b8979ac9ab02d13
+      internalID: -1836017318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d511578441e347b2a57690e8fd8c0a7
+      internalID: -762232356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_65
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb3f9f76c6642bb88f093649ccd90f
+      internalID: 291981535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_66
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b47e94b5cc8434b94ed837b41a4144
+      internalID: 302539645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_67
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d3b6b0ff3ff49589e86edc7eef28d8
+      internalID: 176118519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_68
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99685c1e19a3d4ef4a3adb2d2d0df961
+      internalID: -1241923022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_69
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 246
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d6c9eb8f73e435f8cd29bdf7f7038e
+      internalID: -1229879029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a76bde603a9454084ed19cc83f6472
+      internalID: 686051935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_71
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8705f3bac0fa141dca531912a628fdd1
+      internalID: 1570535394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36a2f1a89fa24d60a7dd2118e5839dd
+      internalID: 633937185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0dc35d6d06f481aa0740907dfcfc7e
+      internalID: -1114973377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d2b4c303574270b71a1c6dcdbb799
+      internalID: -2111050869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a245e60680f4114aacd1404d82cbe7
+      internalID: 492408064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_76
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8519dcb4c264761ad3a94173b90a5c
+      internalID: -223798211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_77
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a06a51f894eb48b798624f48855a82e
+      internalID: 111907549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_78
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75d29ba515ed47c08de20c8eb901612
+      internalID: 1978818820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_79
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 176
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12bfed7c3ffc48b5ab82ecfce17d23f
+      internalID: -157863624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d08e7ebfe524fda9601f44822de0a0
+      internalID: 657457659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca47d9b6fbc4bcd9a80b2a6fabd235
+      internalID: 1719330463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95181ac70d3a54bcd8ce91b4d079873c
+      internalID: 1703213089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3bc7c0aea35494386d9055f98d6205
+      internalID: -2087062067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_84
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1a2f3429754166bc25ebb277f32cd
+      internalID: 1584335046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_85
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebaa19dc3ca4493999fcf44b717140e
+      internalID: 701045630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_86
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0320edb15138144de998af776d34753c
+      internalID: 459367525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_87
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3d3d117ab5144eb9c3408c79bb2856
+      internalID: -1803530185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_88
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669dd462a2f76408ab10d9c46a5e296b
+      internalID: 1814271632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_89
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 106
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f4d571eaba54f4e9a17be708bd3370
+      internalID: 1871368142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97104c54a2f5d46eebeec080a1c23fb3
+      internalID: -1972190269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d8a5976de2943ce8a60ef7bf2a7f6a
+      internalID: 1232825467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54542a04fdb5344dfae815879375d5f8
+      internalID: -1153079956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7809d909c74e047579d21c66298a10c9
+      internalID: 1915360622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_94
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f7d320416b449e9ce865248f4be56
+      internalID: 1589914107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_95
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f3946e4fc194cd3b56bc5acedb7ae4
+      internalID: -1719635771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_96
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944e6c93fd48a416589c7d4b7b1c7edf
+      internalID: -884702196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_97
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d6b8e5d99f64a32868c125dd0376f3
+      internalID: -1259906096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_98
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c9fafde39264b99b98ca8a447b5e9f
+      internalID: 886466038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_99
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 36
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dc1e253be934035809eecdcd57ebe5
+      internalID: -896881749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_0: -53730269
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_1: 212551544
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_10: 1813128524
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_11: -973169674
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_12: 1911544489
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_13: 2010471679
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_14: 324487914
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_15: -1723053749
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_16: 1154282258
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_17: 2075748291
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_18: 37120173
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_19: 506127133
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_2: 391583986
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_20: 1483024698
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_21: 768482100
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_22: -1891803093
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_23: -800085054
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_24: -1701635476
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_25: -217792670
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_26: 950265821
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_27: -1328348405
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_28: 396989599
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_29: 1474969895
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_3: 563888278
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_30: -2022953413
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_31: 305606965
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_32: -1915663255
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_33: 1983174249
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_34: -1844501391
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_35: 1657924491
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_36: 815596871
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_37: 1478993666
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_38: -1589842759
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_39: -1535423571
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_4: 2135713623
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_40: 892826694
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_41: -529459000
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_42: -620779050
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_43: -106923156
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_44: 2049217201
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_45: 65007121
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_46: 2135458102
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_47: -477271816
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_48: 1125192568
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_49: -1771313745
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_5: 209361326
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_50: -514622444
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_51: 398688056
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_52: 1748587603
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_53: -369137150
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_54: 1856638453
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_55: 193519796
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_56: 60916586
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_57: 786470430
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_58: 1963502578
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_59: -1388016255
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_6: -1758235840
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_60: 380323999
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_61: 525229514
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_62: 1984353229
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_63: -1836017318
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_64: -762232356
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_65: 291981535
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_66: 302539645
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_67: 176118519
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_68: -1241923022
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_69: -1229879029
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_7: 137397007
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_70: 686051935
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_71: 1570535394
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_72: 633937185
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_73: -1114973377
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_74: -2111050869
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_75: 492408064
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_76: -223798211
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_77: 111907549
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_78: 1978818820
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_79: -157863624
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_8: -1173542777
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_80: 657457659
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_81: 1719330463
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_82: 1703213089
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_83: -2087062067
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_84: 1584335046
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_85: 701045630
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_86: 459367525
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_87: -1803530185
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_88: 1814271632
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_89: 1871368142
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_9: -494013992
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_90: -1972190269
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_91: 1232825467
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_92: -1153079956
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_93: 1915360622
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_94: 1589914107
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_95: -1719635771
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_96: -884702196
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_97: -1259906096
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_98: 886466038
+      Tailside game_ Pixel Art Cozy Game Coffee Tea Cup Decor Assets_99: -896881749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

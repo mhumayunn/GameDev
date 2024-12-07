@@ -20,7 +20,7 @@ public class MenuScript : MonoBehaviour
 
     public void gameStart()
     {
-        SceneManager.LoadSceneAsync("SampleScene");
+        SceneManager.LoadSceneAsync("Main Scene");
     }
 
     public void BackToMenu()
