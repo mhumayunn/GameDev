@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/CCPanel.unity
     guid: c324d5fd516d44ddfac700517e48e7cb
   - enabled: 1
+    path: Assets/Scenes/CoffeeOrderCompleteGame.unity
+    guid: 5dfc847a366bf4c4e84966651409fdf5
+  - enabled: 1
     path: Assets/Scenes/CoffeeOrderLoading.unity
     guid: 9629afae8e8f04c06bac90bc87ea155b
   m_configObjects: {}
